@@ -1,0 +1,30 @@
+{
+  "name": "rank-valorant",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "build:develop": "cp .env.develop .env.local && next build",
+    "start": "next start",
+    "lint": "next lint",
+    "build:css": "postcss src/"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cors-anywhere": "^0.4.4",
+    "next": "14.2.3",
+    "primeicons": "^7.0.0",
+    "primereact": "^10.6.6",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  },
+  "engines": {
+    "node": "18.17.0"
+  }
+  
+}
