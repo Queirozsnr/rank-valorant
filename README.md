@@ -70,8 +70,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
-
----
-
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+Feito por [José Ribamar](https://github.com/Queirozsnr)
